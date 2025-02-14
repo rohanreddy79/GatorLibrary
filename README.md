@@ -29,10 +29,10 @@ GatorLibrary Management System is a Python-based library management software des
    git clone <repo-url>
    cd GatorLibrary
 2. **Run the program with an input file**
-   '''sh
+   ```sh
    python gator_library.py input.txt
 3. **The output will be saved in**
-   '''sh
+   ```sh
    output.txt
    
 
